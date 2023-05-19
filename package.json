@@ -1,0 +1,11 @@
+{
+  "name": "board-game",
+  "author": "Paandaa",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "dependencies": {
+    "ws": "^8.13.0"
+  },
+  "devDependencies": {}
+}
